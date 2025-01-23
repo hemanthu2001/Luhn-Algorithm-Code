@@ -1,4 +1,3 @@
-# Luhn-Algorithm-Code
 # Luhn Algorithm: Credit Card Validation
 
 This project demonstrates the implementation of the **Luhn Algorithm**, also known as the Modulus 10 or Mod 10 algorithm, in Python. The Luhn algorithm is widely used to validate credit card numbers and other identification numbers by performing a simple checksum validation.
